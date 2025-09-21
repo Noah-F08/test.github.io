@@ -4,8 +4,10 @@
 ![Requin](https://github.com/user-attachments/assets/1da6f5a5-2547-4b2d-9364-660c7aafa13d)
 
 ----
-
-•[Join the movement!] •[Everyday actions] •[Latest news]•
+<div align="center">
+  
+•[Join the movement!] • [Everyday actions] • [Latest news]•
+</div>
 
 ----
 
