@@ -10,11 +10,11 @@ Despite the concerns that have been rising over the past decades, sharks continu
 — Dr. Leonardo Guida, shark scientist with the Australian Marine Conservation Society, for [The Guardian](https://www.theguardian.com/environment/2025/jun/06/endangered-sharks-being-killed-at-alarming-levels-in-pacific-greenpeace-claims-after-cutting-20km-of-vessels-longline-ntwnfb), June 6 2025.
 
 
-
+<br>
 | Overfishing | Species at Risk | Illegal Trade | Habitat Loss |
 |----------------|-----------------|----------------|----------------|
 | **70% decline** in oceanic shark populations over the last 50 years | **1/3 of all** shark and ray species are at risk | **31% of shark meat** in U.S. markets comes from endangered species | **40% of coral reef habitats** degraded, affecting shark populations |
-<br>
+
 <div align="center">
   
 𓆝𓆟𓆝𓆟𓆝𓆝𓆟𓆝𓆟𓆝
