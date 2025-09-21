@@ -1,5 +1,5 @@
 <div style="
-background-image: url('https://example.com/ton_image.jpg');
+background-image: url(https://www.sharkdiver.com/wp-content/uploads/2016/02/bull-shark-header.jpg);
 background-size: cover;
 background-position: center;
 text-align: center;
