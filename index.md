@@ -1,7 +1,7 @@
 <div align="center"> 
 # Our sharks in danger!
-### A simplified guide to understand and protect them
 </div>
+### A simplified guide to understand and protect them
 
 [UBO](https://ent.univ-brest.fr)
 > Paragraphe
