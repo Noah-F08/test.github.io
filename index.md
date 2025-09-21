@@ -1,5 +1,5 @@
 <div style="
-background-image: url([https://i.pinimg.com/1200x/3f/65/60/3f65608e1268cbf86dd4edd7ba3b4968.jpg](https://www.sharkdiver.com/wp-content/uploads/2016/02/bull-shark-header.jpg));
+background-image: url('https://example.com/ton_image.jpg');
 background-size: cover;
 background-position: center;
 text-align: center;
@@ -8,10 +8,8 @@ color: white;
 border-radius: 15px;
 ">
   
-<div align="center">
-  
 # Our sharks in danger!
-
+</div>
 <div align="center">
   
 ### A simplified guide to understand and protect them
@@ -21,3 +19,4 @@ border-radius: 15px;
 > Paragraphe
 >> sous paragraphe
 ![Requin](https://i.pinimg.com/1200x/3f/65/60/3f65608e1268cbf86dd4edd7ba3b4968.jpg)
+<div align="center">
