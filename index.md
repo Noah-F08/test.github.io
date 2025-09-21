@@ -7,8 +7,6 @@ padding: 60px;
 color: white;
 border-radius: 15px;
 ">
-</div>
-
 <div align="center">
   
 # Our sharks in danger!
@@ -17,7 +15,7 @@ border-radius: 15px;
   
 ### A simplified guide to understand and protect them
 </div>
-
+</div>
 
 [UBO](https://ent.univ-brest.fr)
 > Paragraphe
