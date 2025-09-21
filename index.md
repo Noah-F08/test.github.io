@@ -2,6 +2,7 @@
   
 # Our sharks in danger!
 ### A simplified guide to understand and protect them
+
 </div>
 
 <img src="image.png" width="200" height="100">
