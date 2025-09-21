@@ -1,7 +1,6 @@
 <div align="center">
   
 # Our sharks in danger!
-
 </div>
 
 ### A simplified guide to understand and protect them
