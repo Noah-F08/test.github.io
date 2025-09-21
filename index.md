@@ -6,7 +6,7 @@
 ----
 <div align="center">
   
-• [Join the movement!](Jointhemovement!) • [Everyday actions] • [Latest news] •
+• [Join the movement!](./Jointhemovement!) • [Everyday actions] • [Latest news] •
 </div>
 
 ----
