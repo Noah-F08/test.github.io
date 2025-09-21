@@ -1,4 +1,5 @@
-<div> # Our sharks in danger!
+<div></div>
+# Our sharks in danger!
 ### A simplified guide to understand and protect them
 
 [UBO](https://ent.univ-brest.fr)
