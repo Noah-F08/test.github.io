@@ -6,7 +6,7 @@
 ----
 <div align="center">
   
-[Join the movement!](jointhemovement.md) • [Everyday actions] • [Latest news]
+[Join the movement!](https://github.com/Noah-F08/test.github.io/blob/9361d3c790f2e2b48c43d04d6f32fb48851e9e80/jointhemovement.md) • [Everyday actions] • [Latest news]
 </div>
 
 ----
