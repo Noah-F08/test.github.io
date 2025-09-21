@@ -3,7 +3,7 @@
 # Our sharks in danger!
 ### A simplified guide to understand and protect them
 </div>
-![Requin](![header-shark-finning 2](https://github.com/user-attachments/assets/85e4072e-f938-4811-b867-34425cac96d3)
+![Requin]("C:\Users\nfaco\Desktop\header-shark-finning 2.JPG")
 
 
 [UBO](https://ent.univ-brest.fr)
