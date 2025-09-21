@@ -1,5 +1,6 @@
 <div style="
-background-image: url('https://example.com/ton_image.jpg');
+background-image: url
+![Requin](https://i.pinimg.com/1200x/3f/65/60/3f65608e1268cbf86dd4edd7ba3b4968.jpg);
 background-size: cover;
 background-position: center;
 text-align: center;
@@ -7,8 +8,8 @@ padding: 60px;
 color: white;
 border-radius: 15px;
 ">
-  
-![Requin](https://i.pinimg.com/1200x/3f/65/60/3f65608e1268cbf86dd4edd7ba3b4968.jpg)
+</div>
+
 <div align="center">
   
 # Our sharks in danger!
@@ -16,7 +17,6 @@ border-radius: 15px;
 <div align="center">
   
 ### A simplified guide to understand and protect them
-</div>
 </div>
 
 
