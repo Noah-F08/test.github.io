@@ -17,7 +17,7 @@ border-radius: 15px;
   
 ### A simplified guide to understand and protect them
 </div>
-
+</div>
 
 
 [UBO](https://ent.univ-brest.fr)
