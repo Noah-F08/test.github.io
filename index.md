@@ -24,3 +24,6 @@ Despite the concerns that have been rising over the past decades, sharks continu
 
 ### Debunking Shark Myths
 Sharks are often associated by people with the idea of bloodthirsty monsters, myths that only reinforce a general fear. But in truth, sharks are not much different from any other animal—they are not out to attack humans. **Most species are completely harmless**, and fatal attacks are extremely rare.
+Many of the myths about sharks come from movies, sensationalized news, and folklore. Films like Jaws created a lasting image of sharks as mindless killers, while rare shark attacks are often exaggerated in the media, making them seem more common than they really are.
+
+
