@@ -28,6 +28,9 @@ Despite the concerns that have been rising over the past decades, sharks continu
   
 𓆝𓆟𓆝𓆟𓆝𓆝𓆟𓆝𓆟𓆝
 </div>
+
+![Requin](https://github.com/user-attachments/assets/38f331a0-947b-47a2-8e63-a334311ff8c0)
+
 <br>
 
 ### Debunking Shark Myths
