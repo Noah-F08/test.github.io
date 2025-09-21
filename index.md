@@ -1,7 +1,5 @@
 <div style="
-background-image: url
-  
-![Requin](https://i.pinimg.com/1200x/3f/65/60/3f65608e1268cbf86dd4edd7ba3b4968.jpg);
+background-image: url![Requin](https://i.pinimg.com/1200x/3f/65/60/3f65608e1268cbf86dd4edd7ba3b4968.jpg);
 background-size: cover;
 background-position: center;
 text-align: center;
