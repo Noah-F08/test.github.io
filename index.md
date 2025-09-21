@@ -2,4 +2,4 @@
 
 ### A simplified guide to understand and protect them
 
-![Requin]("C:\Users\nfaco\Desktop\header-shark-finning 2.JPG")
+![Requin](https://github.com/user-attachments/assets/1da6f5a5-2547-4b2d-9364-660c7aafa13d)
