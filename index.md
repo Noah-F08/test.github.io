@@ -1,11 +1,12 @@
 <div align="center">
   
 # Our sharks in danger!
-</div>
 
+</div>
 <div align="center">
   
 ### A simplified guide to understand and protect them
+
 </div>
 
 
