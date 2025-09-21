@@ -1,3 +1,4 @@
+![Requin](https://github.com/user-attachments/assets/f2154b0f-3d64-4726-9b25-c270db5fea60)
 # Our sharks in danger!
 
 ### A simplified guide to understand and protect them
