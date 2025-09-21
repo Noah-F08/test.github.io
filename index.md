@@ -5,7 +5,7 @@
 
 ----
 
-menu
+•[Join the movement!] •[Everyday actions] •[Latest news]•
 
 ----
 
