@@ -1,4 +1,4 @@
-# 𝐎𝐮𝐫 𝐬𝐡𝐚𝐫𝐤𝐬 𝐢𝐧 𝐝𝐚𝐧𝐠𝐞𝐫!
+# ᴏᴜʀ ꜱʜᴀʀᴋꜱ ɪɴ ᴅᴀɴɢᴇʀ!
 ### 𝘈 𝘴𝘪𝘮𝘱𝘭𝘪𝘧𝘪𝘦𝘥 𝘨𝘶𝘪𝘥𝘦 𝘵𝘰 𝘶𝘯𝘥𝘦𝘳𝘴𝘵𝘢𝘯𝘥 𝘢𝘯𝘥 𝘱𝘳𝘰𝘵𝘦𝘤𝘵 𝘵𝘩𝘦𝘮
 
 ![Requin](https://github.com/user-attachments/assets/1da6f5a5-2547-4b2d-9364-660c7aafa13d)
@@ -15,4 +15,5 @@ Despite the concerns that have been rising over the past decades, sharks continu
 |----------------|-----------------|----------------|----------------|
 | **70% decline** in oceanic shark populations over the last 50 years | **1/3 of all** shark and ray species are at risk | **31% of shark meat** in U.S. markets comes from endangered species | **40% of coral reef habitats** degraded, affecting shark populations |
 
+<div
 𓆝𓆟𓆝𓆟𓆝𓆝𓆟𓆝𓆟𓆝
