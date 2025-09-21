@@ -15,5 +15,7 @@ Despite the concerns that have been rising over the past decades, sharks continu
 |----------------|-----------------|----------------|----------------|
 | **70% decline** in oceanic shark populations over the last 50 years | **1/3 of all** shark and ray species are at risk | **31% of shark meat** in U.S. markets comes from endangered species | **40% of coral reef habitats** degraded, affecting shark populations |
 
-<div
+<div align="center">
+  
 𓆝𓆟𓆝𓆟𓆝𓆝𓆟𓆝𓆟𓆝
+</div>
