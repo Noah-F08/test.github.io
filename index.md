@@ -35,7 +35,7 @@ Despite the concerns that have been rising over the past decades, sharks continu
 
 ### Debunking Shark Myths  
 Sharks have long been cast as the ocean’s villains, bloodthirsty monsters lurking beneath the waves—**myths that only reinforce a general fear**.  
-Many of the scary stories about sharks didn’t come from science—they came from movies, sensational news, and old tales. Films like Jaws made sharks look like mindless killers, while rare attacks were blown out of proportion in the media. Folklore and myths passed down over generations also painted sharks as dangerous monsters.  
+Many of the scary stories about sharks didn’t come from science—they came from movies, sensational news, and old tales. Films like _Jaws_ made sharks look like mindless killers, while rare attacks were blown out of proportion in the media. Folklore and myths passed down over generations also painted sharks as dangerous monsters.  
 In reality, **most shark species are harmless**, and they usually avoid humans. And when encounters do happen, it is mostly by accident, when a shark mistakes a swimmer or surfer for prey.
 By moving past these myths, we can start to see sharks for what they really are: essential guardians of the ocean whose survival is closely tied to our own.
 
