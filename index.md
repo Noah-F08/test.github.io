@@ -41,4 +41,18 @@ By moving past these myths, we can start to see sharks for what they really are:
 > *“Hands down the biggest misconception is that sharks are mindless killing machines. They’re anything but that. They are incredible, complex creatures. Some with dynamic social capabilities. Some with large emotions, very, very unique behaviors. And I think most people think of Jaws or whatever and think that they’re mindless killing machines.”*
 — Forrest Galante, wildlife biologist, for [Parade](https://parade.com/entertainment/shark-week-scientists-best-worst-shark-movies?), July 25, 2023.
 
+<div align="center">
 
+**47**  
+_Unprovoked shark attacks in 2024_  
+
+**4**  
+_Fatal cases in 2024_  
+
+**< 10**  
+_Human deaths per year from sharks_  
+
+**100,000,000+**  
+_Sharks killed by humans each year_  
+
+</div>
