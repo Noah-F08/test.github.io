@@ -16,7 +16,7 @@
 Despite the concerns that have been rising over the past decades, sharks continue to face serious threats worldwide, with some species going extinct every few years. Over **a third of all shark and ray species are now considered at risk**, primarily due to overfishing, illegal trade, and the destruction of critical habitats. In addition, **climate change is altering ocean temperatures and currents**, disrupting feeding and breeding grounds. **Pollution**, especially plastics and chemical runoff, **contaminates the waters they inhabit**. Bycatch in commercial fisheries continues to claim thousands of sharks unintentionally each year, while the demand for shark fins and meat drives illegal and unsustainable fishing practices. These combined pressures make shark conservation a complex and urgent challenge.
 
 > *"Sharks are important in the ecosystem, they typically occupy the top of marine food webs. Steep population declines will cause food webs to potentially become unstable and ultimately collapse."*
-— Dr. Leonardo Guida, shark scientist with the Australian Marine Conservation Society, for [The Guardian](https://www.theguardian.com/environment/2025/jun/06/endangered-sharks-being-killed-at-alarming-levels-in-pacific-greenpeace-claims-after-cutting-20km-of-vessels-longline-ntwnfb), June 6 2025.
+— Dr. Leonardo Guida, shark scientist with the Australian Marine Conservation Society, for [The Guardian](https://www.theguardian.com/environment/2025/jun/06/endangered-sharks-being-killed-at-alarming-levels-in-pacific-greenpeace-claims-after-cutting-20km-of-vessels-longline-ntwnfb), June 6, 2025.
 
 <br>
 
@@ -36,9 +36,9 @@ Despite the concerns that have been rising over the past decades, sharks continu
 ### Debunking Shark Myths
 Sharks are often associated by people with the idea of bloodthirsty monsters, **myths that only reinforce a general fear**. But in truth, sharks are not much different from any other animal—they are not out to attack humans. **Most species are completely harmless**, and fatal attacks are extremely rare.  
 Many of the myths about sharks come from movies, sensationalized news, and folklore. Films like Jaws created a lasting image of sharks as mindless killers, while rare shark attacks are often exaggerated in the media, making them seem more common than they really are. 
-| Sharks and their challenges |
-|-----------------------------|
-| Despite the concerns that have been rising over the past few years, sharks continue to face serious threats worldwide, with some species going extinct every few years. Over a third of all shark and ray species are now considered at risk, primarily due to overfishing, illegal trade, and the destruction of habitats. |
+By moving past these myths, we can start to see sharks for what they really are: essential guardians of the ocean whose survival is closely tied to our own.
 
+> *“Hands down the biggest misconception is that sharks are mindless killing machines. They’re anything but that. They are incredible, complex creatures. Some with dynamic social capabilities. Some with large emotions, very, very unique behaviors. And I think most people think of Jaws or whatever and think that they’re mindless killing machines.”*
+— Forrest Galante, wildlife biologist, for [Parade](https://parade.com/entertainment/shark-week-scientists-best-worst-shark-movies?), July 25, 2023.
 
 
