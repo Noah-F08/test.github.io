@@ -39,7 +39,7 @@ Many of the scary stories about sharks didn’t come from science—they came fr
 In reality, **most shark species are harmless**, and they usually avoid humans. And when encounters do happen, it is mostly by accident, when a shark mistakes a swimmer or surfer for prey.
 By moving past these myths, we can start to see sharks for what they really are: essential guardians of the ocean whose survival is closely tied to our own.
 
-> *“Hands down the biggest misconception is that sharks are mindless killing machines. They’re anything but that. They are incredible, complex creatures. Some with dynamic social capabilities. Some with large emotions, very, very unique behaviors. And I think most people think of Jaws or whatever and think that they’re mindless killing machines.”*
+> *“Hands down the biggest misconception is that sharks are mindless killing machines. They’re anything but that. They are incredible, complex creatures. Some with dynamic social capabilities. Some with large emotions, very, very unique behaviors. And I think most people think of Jaws or whatever and think that they’re mindless killing machines.”*  
 — Forrest Galante, wildlife biologist, for [Parade](https://parade.com/entertainment/shark-week-scientists-best-worst-shark-movies?), July 25, 2023.
 
 ### Who’s the Real Threat?  
