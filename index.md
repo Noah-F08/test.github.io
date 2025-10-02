@@ -33,7 +33,7 @@ Despite the concerns that have been rising over the past decades, sharks continu
 ![Requin](https://github.com/user-attachments/assets/38f331a0-947b-47a2-8e63-a334311ff8c0)
 
 
-### Debunking Shark Myths
+### Debunking Shark Myths  
 Sharks are often associated by people with the idea of bloodthirsty monsters, **myths that only reinforce a general fear**. But in truth, sharks are not much different from any other animal—they are not out to attack humans. **Most species are completely harmless**, and fatal attacks are extremely rare.  
 Many of the myths about sharks come from movies, sensationalized news, and folklore. Films like Jaws created a lasting image of sharks as mindless killers, while rare shark attacks are often exaggerated in the media, making them seem more common than they really are.  
 By moving past these myths, we can start to see sharks for what they really are: essential guardians of the ocean whose survival is closely tied to our own.
@@ -41,18 +41,5 @@ By moving past these myths, we can start to see sharks for what they really are:
 > *“Hands down the biggest misconception is that sharks are mindless killing machines. They’re anything but that. They are incredible, complex creatures. Some with dynamic social capabilities. Some with large emotions, very, very unique behaviors. And I think most people think of Jaws or whatever and think that they’re mindless killing machines.”*
 — Forrest Galante, wildlife biologist, for [Parade](https://parade.com/entertainment/shark-week-scientists-best-worst-shark-movies?), July 25, 2023.
 
-<div align="center">
-
-**47**  
-_Unprovoked shark attacks in 2024_  
-
-**4**  
-_Fatal cases in 2024_  
-
-**< 10**  
-_Human deaths per year from sharks_  
-
-**100,000,000+**  
-_Sharks killed by humans each year_  
-
-</div>
+### Who’s the Real Threat?  
+While sharks are often portrayed as a deadly threat to humans, the reality is the opposite: humans are far more dangerous to sharks. Each year, fewer than 10 people worldwide die from shark attacks, yet **humans kill an estimated 100 million sharks annually** through overfishing, finning, and bycatch. This imbalance highlights the urgent need to rethink our relationship with these animals, not as monsters, but as vulnerable species that need our protection.
