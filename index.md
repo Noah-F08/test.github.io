@@ -56,6 +56,7 @@ While sharks are often portrayed as a deadly threat to humans, the reality is th
 | Sharks killed by humans per year | 100,000,000+ |
 
 </div>
+<br>
 
 ### Why Protecting Sharks Matters   
 Sharks aren’t just fascinating creatures—they are essential for healthy oceans. As top predators, **they help keep marine ecosystems balanced** by controlling the populations of other species. Without sharks, entire food webs can collapse, leading to overpopulation of certain fish and degradation of coral reefs and other habitats.  
