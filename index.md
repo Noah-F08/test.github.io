@@ -51,9 +51,6 @@ While sharks are often portrayed as a deadly threat to humans, the reality is th
 | Fatal cases in 2024 | 4 |
 | Human deaths from sharks per year | < 10 |
 | Sharks killed by humans per year | 100,000,000+ |
-
-![requin2](https://github.com/user-attachments/assets/9c5d8310-e8ea-467a-b842-eba184deceb5)
-
 <br>
 
 ### Why Protecting Sharks Matters   
