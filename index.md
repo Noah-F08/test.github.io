@@ -5,7 +5,7 @@
 
 ----
   
-                      ***•  [Join the movement!](movement.md)   •   [Everyday actions]   •   [Latest news]  •***
+                      ***•  [Show your support!](movement.md)   •   [organisations]   •   [Latest news]  •***
 
 ----
 
