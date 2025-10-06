@@ -67,6 +67,7 @@ Sharks aren’t just fascinating creatures, they are essential for healthy ocean
 ![requin2](https://github.com/user-attachments/assets/b68c5ee8-d26c-435b-8100-f9fab5a2494a)
 
 *Source : [WWF Sharks](https://sharks.panda.org/news-blogs-updates/latest-news/our-2020-2021-shark-and-ray-conservation-highlights), 2021*
+
 <br>
 
 ### Convinced ? Join the movement !
