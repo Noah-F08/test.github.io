@@ -54,7 +54,7 @@ While sharks are often portrayed as a deadly threat to humans, the reality is th
 <br>
 
 ### Why Protecting Sharks Matters   
-Sharks aren’t just fascinating creatures—they are essential for healthy oceans. As top predators, **they help keep marine ecosystems balanced** by controlling the populations of other species. Without sharks, entire food webs can collapse, leading to overpopulation of certain fish and degradation of coral reefs and other habitats.  
+Sharks aren’t just fascinating creatures, they are essential for healthy oceans. As top predators, **they help keep marine ecosystems balanced** by controlling the populations of other species. Without sharks, entire food webs can collapse, leading to overpopulation of certain fish and degradation of coral reefs and other habitats.  
 **Protecting sharks also benefits humans**. Healthy oceans mean more sustainable fisheries, thriving tourism, and resilient marine ecosystems that help fight climate change. Every shark saved is a step toward a stronger, more balanced ocean.
 
 
