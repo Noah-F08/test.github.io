@@ -6,7 +6,7 @@
 ----
 <div align="center">
   
-***• [Join the movement!](###who’s-the-teal-threat?)• [Everyday actions] • [Latest news] •***
+***• [Join the movement!](###who’s-the-teal-threat)• [Everyday actions] • [Latest news] •***
 </div>
 
 ----
