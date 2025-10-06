@@ -42,6 +42,7 @@ By moving past these myths, we can start to see sharks for what they really are:
 > *“Hands down the biggest misconception is that sharks are mindless killing machines. They’re anything but that. They are incredible, complex creatures. Some with dynamic social capabilities. Some with large emotions, very, very unique behaviors. And I think most people think of Jaws or whatever and think that they’re mindless killing machines.”*  
 — Forrest Galante, wildlife biologist, for [Parade](https://parade.com/entertainment/shark-week-scientists-best-worst-shark-movies?), July 25, 2023.
 
+<a id="whos-the-real-threat"></a>
 ### Who’s the Real Threat?  
 While sharks are often portrayed as a deadly threat to humans, the reality is the opposite: humans are far more dangerous to sharks. Each year, fewer than 10 people worldwide die from shark attacks, yet **humans kill an estimated 100 million sharks annually** through overfishing, finning, and bycatch. This imbalance highlights the urgent need to rethink our relationship with these animals, not as monsters, but as vulnerable species that need our protection.  
 <br>
