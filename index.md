@@ -45,7 +45,8 @@ By moving past these myths, we can start to see sharks for what they really are:
 While sharks are often portrayed as a deadly threat to humans, the reality is the opposite: humans are far more dangerous to sharks. Each year, fewer than 10 people worldwide die from shark attacks, yet **humans kill an estimated 100 million sharks annually** through overfishing, finning, and bycatch. This imbalance highlights the urgent need to rethink our relationship with these animals, not as monsters, but as vulnerable species that need our protection.  
 <br>
 
-| Statistic | Value |
+| Statistic | Value |        ![requin2](https://github.com/user-attachments/assets/eecab219-01f1-42b8-af07-4d2b2e822f55)
+
 |-----------|-------|
 | Unprovoked shark attacks in 2024 | 47 |
 | Fatal cases in 2024 | 4 |
