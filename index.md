@@ -5,7 +5,7 @@
 
 ----
   
-                      ***•  [Show your support!](support.md)   •   [organisations]   •   [Latest news]  •***
+                      ***•  [Show your support!](support.md)   •   [organizations]   •   [Latest news]  •***
 
 ----
 
@@ -70,3 +70,13 @@ Sharks aren’t just fascinating creatures, they are essential for healthy ocean
 </div>
 
 ### Convinced ? Join the movement !
+
+There are **two ways** you can help sharks :
+
+> **Support Organizations**  
+> Donate, volunteer, or join initiatives protecting sharks.  
+> [Know more](organizations.md)
+
+> **Daily Actions**  
+> Simple habits and actions you can do every day to protect sharks.  
+> [Know more](support.md)
