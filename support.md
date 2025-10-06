@@ -1,1 +1,1 @@
-## **Show your support!**
+## Show your support!
