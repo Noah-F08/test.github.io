@@ -5,7 +5,7 @@
 
 ----
   
-**[Join the movement!]  [Everyday actions]  [Latest news]**
+***·[Join the movement!] · [Everyday actions] · [Latest news]·***
 
 ----
 
