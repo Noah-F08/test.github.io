@@ -5,7 +5,7 @@
 
 ----
   
-                      ***•  [Show your support!](support.md)    •    [organizations]    •    [Latest news]  •***
+                            ***•  [Show your support!](support.md)    •    [organizations]    •    [Latest news]  •***
 
 ----
 
