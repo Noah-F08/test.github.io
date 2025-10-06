@@ -74,7 +74,6 @@ Sharks aren’t just fascinating creatures, they are essential for healthy ocean
 
 There are **two ways** you can help sharks :
 
-<br>
 
 > **Support Organizations**  
 > Donate, volunteer, or join initiatives protecting sharks.  
