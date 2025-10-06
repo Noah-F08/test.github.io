@@ -62,7 +62,7 @@ Sharks aren’t just fascinating creatures, they are essential for healthy ocean
   
 𓆝𓆟𓆝𓆟𓆝𓆝𓆟𓆝𓆟𓆝
 </div>
-<br>
+
 
 ![requin2](https://github.com/user-attachments/assets/b68c5ee8-d26c-435b-8100-f9fab5a2494a)
 
@@ -73,6 +73,8 @@ Sharks aren’t just fascinating creatures, they are essential for healthy ocean
 ### Convinced ? Join the movement !
 
 There are **two ways** you can help sharks :
+
+<br>
 
 > **Support Organizations**  
 > Donate, volunteer, or join initiatives protecting sharks.  
