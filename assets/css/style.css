@@ -1,7 +1,3 @@
-/* =======================================
-   GLOBAL SETTINGS
-   ======================================= */
-
 body {
     font-family: "Poppins", "Comic Neue", "Helvetica Neue", Helvetica, Arial, sans-serif;
     line-height: 1.7;
@@ -12,9 +8,6 @@ body {
     margin: auto;
 }
 
-/* =======================================
-   HEADERS
-   ======================================= */
 header {
     color: #0077b6;
     text-align: center;
@@ -37,12 +30,4 @@ th, td {
     border: 1px solid #0077b6;
     padding: 5px; 
     text-align: center; 
-}
-
-.logo-row {
-    display: flex;
-    justify-content: center;
-    gap: 50px;
-    flex-wrap: wrap;
-    margin-top: 20px;
 }
