@@ -34,8 +34,3 @@ table {
     margin-bottom: 20px;
 }
 
-th, td {
-    border: 1px solid #0077b6; /* visible blue borders */
-    padding: 10px;             /* space inside cells */
-    text-align: left;           /* align text */
-}
