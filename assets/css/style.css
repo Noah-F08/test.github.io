@@ -2,10 +2,10 @@
    GLOBAL SETTINGS
    ======================================= */
 body {
-    font-family: "Poppins", "Comic Neue", "Helvetica Neue", Helvetica, Arial, sans-serif; /* friendly, modern font */
+    font-family: "Poppins", "Comic Neue", "Helvetica Neue", Helvetica, Arial, sans-serif;
     line-height: 1.75;
-    color: #2a2a2a; /* dark gray, softer than black */
-    background: linear-gradient(to bottom, #cffafe, #e0f7fa); /* fresh pastel ocean gradient */
+    color: #2a2a2a;
+    background: linear-gradient(to bottom, #eaf3f5, #d0e6eb);
     padding: 30px;
     max-width: 900px;
     margin: auto;
