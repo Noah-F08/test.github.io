@@ -16,3 +16,15 @@ img {
     height: auto;
     border-radius: 8px;
 }
+
+table {
+    border-collapse: collapse; /* ensures borders are merged */
+    width: 100%;               /* table takes full container width */
+    margin-bottom: 20px;
+}
+
+th, td {
+    border: 1px solid #0077b6; /* visible blue borders */
+    padding: 10px;             /* space inside cells */
+    text-align: left;           /* align text */
+}
