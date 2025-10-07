@@ -32,7 +32,7 @@ Every organization counts. Whether you donate, volunteer, or simply spread the w
 <div align="center">
 
 𓆝𓆟𓆝𓆟𓆝𓆝𓆟𓆝𓆟𓆝
-</div>
 <br>
 
 [← Back to main page](index.md)
+</div>
