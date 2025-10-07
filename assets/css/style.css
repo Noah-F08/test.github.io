@@ -17,9 +17,14 @@ body {
    ======================================= */
 h1, h2, h3, h4, h5, h6 {
     color: #0077b6;
-    text-align: center;
+    text-align: left;
     margin-bottom: 0.5em;
 }
+
+/* Blockquotes */
+blockquote {
+    background-color: #ade8f4;
+    border-left: 4px solid #0077b6;
 
 
 img {
