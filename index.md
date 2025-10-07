@@ -118,7 +118,6 @@ There are **two ways** you can help sharks :
 > [See more](support.md)
 
 
-<div style="display: flex; justify-content: space-around; gap: 20px; flex-wrap: wrap;">
 
 <div style="flex: 1; min-width: 250px; border: 2px solid #e0e0e0; border-radius: 12px; padding: 15px; text-align: center; background-color: #f9f9f9;">
   
@@ -133,7 +132,5 @@ There are **two ways** you can help sharks :
 > **Daily Actions**  
 > Simple habits and actions you can do every day to protect sharks.  
 > [See more](support.md)
-
-</div>
 
 </div>
