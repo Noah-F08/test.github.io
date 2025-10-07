@@ -19,6 +19,9 @@ Across the world, numerous organizations are working tirelessly to protect shark
 - **[Longitude 181](https://www.longitude181.org/)** — French NGO promoting responsible diving and marine protection.  
 - **[Sea Shepherd France](https://www.seashepherd.fr/)** — Actively campaigns against illegal shark fishing and finning.
 
------
+<div align="center">
+
+𓆝𓆟𓆝𓆟𓆝𓆝𓆟𓆝𓆟𓆝
+<div/>
 
 [← Back to main page](index.md)
