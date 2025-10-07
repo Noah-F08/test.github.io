@@ -6,7 +6,7 @@ body {
     font-family: "Poppins", "Comic Neue", "Helvetica Neue", Helvetica, Arial, sans-serif;
     line-height: 1.7;
     color: #2a2a2a;
-    background: #f0f4f8;
+    background: linear-gradient(to bottom, #eaf3f5, #d0e6eb);
     padding: 30px;
     max-width: 900px;
     margin: auto;
@@ -20,12 +20,6 @@ h1, h2, h3, h4, h5, h6 {
     text-align: left;
     margin-bottom: 0.5em;
 }
-
-/* Blockquotes */
-blockquote {
-    background-color: #ade8f4;
-    border-left: 4px solid #0077b6;
-
 
 img {
     max-width: 100%;
