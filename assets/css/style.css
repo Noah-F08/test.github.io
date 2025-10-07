@@ -6,7 +6,7 @@ body {
     font-family: "Poppins", "Comic Neue", "Helvetica Neue", Helvetica, Arial, sans-serif;
     line-height: 1.7;
     color: #2a2a2a;
-    background: linear-gradient(to bottom, #eaf3f5, #d0e6eb); /* natural sea-inspired gradient */
+    background: linear-gradient(to bottom, #eaf3f5, #d0e6eb);
     padding: 30px;
     max-width: 900px;
     margin: auto;
@@ -15,15 +15,12 @@ body {
 /* =======================================
    HEADERS
    ======================================= */
-h1, h2, h3 {
-    color: #0077b6; /* deep ocean blue */
+h1, h2, h3, h4, h5, h6 {
+    color: #0077b6;
     text-align: center;
     margin-bottom: 0.5em;
 }
 
-h4, h5, h6 {
-    color: #023e8a;
-}
 
 img {
     max-width: 100%;
