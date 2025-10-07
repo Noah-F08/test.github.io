@@ -51,18 +51,25 @@ Sharks have long been cast as the ocean’s villains, bloodthirsty monsters lurk
 Many of the scary stories about sharks didn’t come from science—they came from movies, sensational news, and old tales. Films like _Jaws_ made sharks look like mindless killers, while rare attacks were blown out of proportion in the media. Folklore and myths passed down over generations also painted sharks as dangerous monsters.  
 In reality, **most shark species are harmless**, and they usually avoid humans. And when encounters do happen, it is mostly by accident, when a shark mistakes a swimmer or surfer for prey.
 By moving past these myths, we can start to see sharks for what they really are: essential guardians of the ocean whose survival is closely tied to our own.
+
 </div>
 
 <div align="justify">
   
 > *“Hands down the biggest misconception is that sharks are mindless killing machines. They’re anything but that. They are incredible, complex creatures. Some with dynamic social capabilities. Some with large emotions, very, very unique behaviors. And I think most people think of Jaws or whatever and think that they’re mindless killing machines.”*  
 — Forrest Galante, wildlife biologist, for [Parade](https://parade.com/entertainment/shark-week-scientists-best-worst-shark-movies?), July 25, 2023.
+
 </div>
 
-
+<div align="justify">
+  
 ### Who’s the Real Threat?  
-While sharks are often portrayed as a deadly threat to humans, the reality is the opposite: humans are far more dangerous to sharks. Each year, fewer than 10 people worldwide die from shark attacks, yet **humans kill an estimated 100 million sharks annually** through overfishing, finning, and bycatch. This imbalance highlights the urgent need to rethink our relationship with these animals, not as monsters, but as vulnerable species that need our protection.  
+While sharks are often portrayed as a deadly threat to humans, the reality is the opposite: humans are far more dangerous to sharks. Each year, fewer than 10 people worldwide die from shark attacks, yet **humans kill an estimated 100 million sharks annually** through overfishing, finning, and bycatch. This imbalance highlights the urgent need to rethink our relationship with these animals, not as monsters, but as vulnerable species that need our protection. 
+
+</div>
 <br>
+
+<div align="center">
 
 | Statistic | Value |
 |-----------|-------|
@@ -71,11 +78,16 @@ While sharks are often portrayed as a deadly threat to humans, the reality is th
 | Human deaths from sharks per year | < 10 |
 | Sharks killed by humans per year | 100,000,000+ |
 
-<br>
+</div>
 
+<br>
+<div align="justify">
+  
 ### Why Protecting Sharks Matters   
 Sharks aren’t just fascinating creatures, they are essential for healthy oceans. As top predators, **they help keep marine ecosystems balanced** by controlling the populations of other species. Without sharks, entire food webs can collapse, leading to overpopulation of certain fish and degradation of coral reefs and other habitats.  
 **Protecting sharks also benefits humans**. Healthy oceans mean more sustainable fisheries, thriving tourism, and resilient marine ecosystems that help fight climate change. Every shark saved is a step toward a stronger, more balanced ocean.
+
+</div>
 
 <div align="center">
   
