@@ -107,24 +107,12 @@ Sharks aren’t just fascinating creatures, they are essential for healthy ocean
 
 There are **two ways** you can help sharks :
 
-
 > **Support Organizations**  
-> Donate, volunteer, or join initiatives protecting sharks.  
-> [See more](organizations.md)
-
-
-> **Daily Actions**  
-> Simple habits and actions you can do every day to protect sharks.  
-> [See more](support.md)
-
-
-
-> ### **Support Organizations**  
 > *Donate, volunteer, or join initiatives protecting sharks.*  
 > [**See more →**](organizations.md)
 >
 > ---
 >
-> ### **Daily Actions**  
+> **Daily Actions**  
 > *Simple habits and actions you can do every day to protect sharks.*  
 > [**See more →**](support.md)
