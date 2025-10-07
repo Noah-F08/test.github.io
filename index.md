@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="assets/css/style.css">
+
 <div align="center">
   
 # **ᴏᴜʀ ꜱʜᴀʀᴋꜱ ɪɴ ᴅᴀɴɢᴇʀ!**
