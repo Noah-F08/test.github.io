@@ -10,8 +10,9 @@
 ----
 
 <br>
-
+<p align="justify">
 Despite the concerns that have been rising over the past decades, sharks continue to face serious threats worldwide, with some species going extinct every few years. Over **a third of all shark and ray species are now considered at risk**, primarily due to overfishing, illegal trade, and the destruction of critical habitats. In addition, **climate change is altering ocean temperatures and currents**, disrupting feeding and breeding grounds. **Pollution**, especially plastics and chemical runoff, **contaminates the waters they inhabit**. Bycatch in commercial fisheries continues to claim thousands of sharks unintentionally each year, while the demand for shark fins and meat drives illegal and unsustainable fishing practices. These combined pressures make shark conservation a complex and urgent challenge.
+</p>
 
 > *"Sharks are important in the ecosystem, they typically occupy the top of marine food webs. Steep population declines will cause food webs to potentially become unstable and ultimately collapse."*
 — Dr. Leonardo Guida, shark scientist with the Australian Marine Conservation Society, for [The Guardian](https://www.theguardian.com/environment/2025/jun/06/endangered-sharks-being-killed-at-alarming-levels-in-pacific-greenpeace-claims-after-cutting-20km-of-vessels-longline-ntwnfb), June 6, 2025.
