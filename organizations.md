@@ -26,6 +26,8 @@ Across the world, numerous organizations are working tirelessly to protect shark
   <img src="https://github.com/user-attachments/assets/74a158fc-c6e0-4ebc-9561-a219345deb7e" alt="WWF" width="100"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/e02d0537-1ca8-4604-890f-301a83e0f51a" alt="longitude181" width="150"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/74a158fc-c6e0-4ebc-9561-a219345deb7e" alt="WWF" width="100"/>
 
 <div align="center">
 
