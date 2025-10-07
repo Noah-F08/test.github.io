@@ -22,7 +22,7 @@ Across the world, numerous organizations are working tirelessly to protect shark
 <div align="center">
 
 𓆝𓆟𓆝𓆟𓆝𓆝𓆟𓆝𓆟𓆝
-<div/>
+</div>
 
 Every organization counts. Whether you donate, volunteer, or simply spread the word, your support helps ensure a safer future for sharks.
 
