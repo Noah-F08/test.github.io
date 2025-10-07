@@ -28,4 +28,10 @@ Every organization counts. Whether you donate, volunteer, or simply spread the w
 
 > “The greatest threats for sharks are all man-made … The good point is that we humans are also in a position to do something about it!” — [SHARKPROJECT](https://www.sharkproject.org/en/donate-help/)
 
+<div align="center">
+
+𓆝𓆟𓆝𓆟𓆝𓆝𓆟𓆝𓆟𓆝
+</div>
+<br>
+
 [← Back to main page](index.md)
