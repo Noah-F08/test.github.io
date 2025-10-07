@@ -4,9 +4,9 @@
 ![Requin](https://github.com/user-attachments/assets/1da6f5a5-2547-4b2d-9364-660c7aafa13d)
 
 ----
-  
+<div align="center">
      𓆝𓆝𓆟𓆝𓆟        ***•   [Show your support!](support.md)    •    [organizations](organizations.md)    •    [Latest news](news.md)   •***         𓆝𓆝𓆟𓆝𓆟
-       
+</div>
 ----
 
 <br>
