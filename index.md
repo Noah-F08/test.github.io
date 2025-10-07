@@ -119,18 +119,22 @@ There are **two ways** you can help sharks :
 
 
 
-<div style="flex: 1; min-width: 250px; border: 2px solid #e0e0e0; border-radius: 12px; padding: 15px; text-align: center; background-color: #f9f9f9;">
-  
-> **Support Organizations**  
-> Donate, volunteer, or join initiatives protecting sharks.  
-> [See more](organizations.md)
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+<div style="flex: 1; min-width: 250px; max-width: 350px; border: 1px solid #ccc; border-radius: 10px; padding: 15px; text-align: center; background-color: #f8f8f8;">
+
+**Support Organizations**  
+Donate, volunteer, or join initiatives protecting sharks.  
+[See more](organizations.md)
 
 </div>
 
-<div style="flex: 1; min-width: 250px; border: 2px solid #e0e0e0; border-radius: 12px; padding: 15px; text-align: center; background-color: #f9f9f9;">
-  
-> **Daily Actions**  
-> Simple habits and actions you can do every day to protect sharks.  
-> [See more](support.md)
+<div style="flex: 1; min-width: 250px; max-width: 350px; border: 1px solid #ccc; border-radius: 10px; padding: 15px; text-align: center; background-color: #f8f8f8;">
+
+**Daily Actions**  
+Simple habits and actions you can do every day to protect sharks.  
+[See more](support.md)
+
+</div>
 
 </div>
