@@ -28,8 +28,8 @@ img {
 }
 
 table {
-    border-collapse: collapse; /* ensures borders are merged */
-    width: 100%;               /* table takes full container width */
+    border-collapse: collapse; 
+    width: 100%;  
     margin-bottom: 20px;
 }
 
@@ -37,4 +37,12 @@ th, td {
     border: 1px solid #0077b6;
     padding: 5px; 
     text-align: center; 
+}
+
+.logo-row {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    flex-wrap: wrap;
+    margin-top: 20px;
 }
