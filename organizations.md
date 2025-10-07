@@ -12,7 +12,7 @@ Across the world, numerous organizations are working tirelessly to protect shark
 - **[WWF](https://www.worldwildlife.org/)** — Runs global campaigns to protect marine life, including sharks.
 
 ### North America
-- **[Shark Savers](https://www.sharksavers.org/)** — Focuses on shark sanctuaries and public engagement.  
+- **[Shark Savers](https://www.shark-savers.com/)** — Focuses on shark sanctuaries and public engagement.  
 - **[Oceana](https://oceana.org/)** — Advocates for policies that reduce bycatch and improve ocean conservation.
 
 ### France & Europe
