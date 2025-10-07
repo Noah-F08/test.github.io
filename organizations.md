@@ -24,5 +24,7 @@ Across the world, numerous organizations are working tirelessly to protect shark
 𓆝𓆟𓆝𓆟𓆝𓆝𓆟𓆝𓆟𓆝
 <div/>
 
+> Every organization counts. Whether you donate, volunteer, or simply spread the word, your support helps ensure a safer future for sharks.
+
 
 [← Back to main page](index.md)
