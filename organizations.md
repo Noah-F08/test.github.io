@@ -1,4 +1,6 @@
 # Organizations
+-----
+Across the world, numerous organizations are working tirelessly to protect sharks and their habitats. Whether through research, education, or direct conservation efforts, these groups play a crucial role in ensuring the survival of these misunderstood creatures.
 
 ### International Organizations
 - **[Shark Trust](https://www.sharktrust.org/)** — UK-based charity focused on shark conservation, research, and public awareness.  
