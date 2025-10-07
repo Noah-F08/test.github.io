@@ -7,6 +7,12 @@ body {
     color: #1a1a1a; /* slightly softer black */
     background: linear-gradient(to bottom, #e0f7fa, #f0fcf8); /* soft ocean gradient */
     padding: 25px;
-    max-width: 700px;
+    max-width: 900px;
     margin: auto;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
 }
