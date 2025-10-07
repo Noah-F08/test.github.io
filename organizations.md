@@ -20,6 +20,13 @@ Across the world, numerous organizations are working tirelessly to protect shark
 - **[Sea Shepherd France](https://www.seashepherd.fr/)** — Actively campaigns against illegal shark fishing and finning.
 <br>
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/en/3/34/Shark_Trust_logo.png" alt="Shark Trust" width="150"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/en/0/0a/WWF_logo.svg" alt="WWF" width="100"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.sharkproject.org/wp-content/uploads/2020/04/logo_sharkproject_en.svg" alt="Sharkproject" width="150"/>
+
 <div align="center">
 
 𓆝𓆟𓆝𓆟𓆝𓆝𓆟𓆝𓆟𓆝
