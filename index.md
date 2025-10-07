@@ -24,9 +24,12 @@ Despite the concerns that have been rising over the past decades, sharks continu
 
 </div>
 
+<div align="justify">
+  
 > *"Sharks are important in the ecosystem, they typically occupy the top of marine food webs. Steep population declines will cause food webs to potentially become unstable and ultimately collapse."*
 — Dr. Leonardo Guida, shark scientist with the Australian Marine Conservation Society, for [The Guardian](https://www.theguardian.com/environment/2025/jun/06/endangered-sharks-being-killed-at-alarming-levels-in-pacific-greenpeace-claims-after-cutting-20km-of-vessels-longline-ntwnfb), June 6, 2025.
 
+</div>
 <br>
 
 | Overfishing | Species at Risk | Illegal Trade | Habitat Loss |
@@ -41,15 +44,20 @@ Despite the concerns that have been rising over the past decades, sharks continu
 
 ![Requin](https://github.com/user-attachments/assets/38f331a0-947b-47a2-8e63-a334311ff8c0)
 
-
+<div align="justify">
+  
 ### Debunking Shark Myths  
 Sharks have long been cast as the ocean’s villains, bloodthirsty monsters lurking beneath the waves—**myths that only reinforce a general fear**.  
 Many of the scary stories about sharks didn’t come from science—they came from movies, sensational news, and old tales. Films like _Jaws_ made sharks look like mindless killers, while rare attacks were blown out of proportion in the media. Folklore and myths passed down over generations also painted sharks as dangerous monsters.  
 In reality, **most shark species are harmless**, and they usually avoid humans. And when encounters do happen, it is mostly by accident, when a shark mistakes a swimmer or surfer for prey.
 By moving past these myths, we can start to see sharks for what they really are: essential guardians of the ocean whose survival is closely tied to our own.
+</div>
 
+<div align="justify">
+  
 > *“Hands down the biggest misconception is that sharks are mindless killing machines. They’re anything but that. They are incredible, complex creatures. Some with dynamic social capabilities. Some with large emotions, very, very unique behaviors. And I think most people think of Jaws or whatever and think that they’re mindless killing machines.”*  
 — Forrest Galante, wildlife biologist, for [Parade](https://parade.com/entertainment/shark-week-scientists-best-worst-shark-movies?), July 25, 2023.
+</div>
 
 
 ### Who’s the Real Threat?  
