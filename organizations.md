@@ -24,7 +24,8 @@ Across the world, numerous organizations are working tirelessly to protect shark
 𓆝𓆟𓆝𓆟𓆝𓆝𓆟𓆝𓆟𓆝
 <div/>
 
-> Every organization counts. Whether you donate, volunteer, or simply spread the word, your support helps ensure a safer future for sharks.
+Every organization counts. Whether you donate, volunteer, or simply spread the word, your support helps ensure a safer future for sharks.
 
+> “The greatest threats for sharks are all man-made … The good point is that we humans are also in a position to do something about it!” — [SHARKPROJECT](https://www.sharkproject.org/en/donate-help/)
 
 [← Back to main page](index.md)
