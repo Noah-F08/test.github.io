@@ -30,6 +30,13 @@ Across the world, numerous organizations are working tirelessly to protect shark
   <img src="https://github.com/user-attachments/assets/74a158fc-c6e0-4ebc-9561-a219345deb7e" alt="WWF" width="120"/>
 </p>
 
+
+<div style="display:flex; justify-content:center; gap:40px; align-items:center; margin-top:20px;">
+  <img src="https://github.com/user-attachments/assets/469a7798-3ce1-4118-8756-517550c37d17" alt="Shark Trust" width="120"/>
+  <img src="https://github.com/user-attachments/assets/e02d0537-1ca8-4604-890f-301a83e0f51a" alt="Longitude 181" width="120"/>
+  <img src="https://github.com/user-attachments/assets/74a158fc-c6e0-4ebc-9561-a219345deb7e" alt="WWF" width="120"/>
+</div>
+
 <div align="center">
 
 𓆝𓆟𓆝𓆟𓆝𓆝𓆟𓆝𓆟𓆝
