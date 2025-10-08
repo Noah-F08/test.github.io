@@ -36,8 +36,8 @@ Across the world, numerous organizations are working tirelessly to protect shark
 </div>
 
 ### How You Can Help
-You don’t have to be a marine biologist to make a difference.
-Start by supporting one of these groups — even a small donation, a social media share, or volunteering your time can have a real impact.
+You don’t have to be a marine biologist to make a difference.  
+Start by supporting one of these groups. Even a small donation, a social media share, or volunteering your time can have a real impact.
 
 > “The greatest threats for sharks are all man-made … The good point is that we humans are also in a position to do something about it!” — [SHARKPROJECT](https://www.sharkproject.org/en/donate-help/)
 
