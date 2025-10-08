@@ -8,6 +8,15 @@ body {
     margin: auto;
 }
 
+body {
+    animation: fadeIn 1.2s ease-in;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
 header {
     color: #0077b6;
     text-align: center;
