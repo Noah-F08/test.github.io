@@ -35,7 +35,7 @@ Across the world, numerous organizations are working tirelessly to protect shark
 𓆝𓆟𓆝𓆟𓆝𓆝𓆟𓆝𓆟𓆝
 </div>
 
-## How **You** Can Help
+### How You Can Help
 You don’t have to be a marine biologist to make a difference.
 Start by supporting one of these groups — even a small donation, a social media share, or volunteering your time can have a real impact.
 
