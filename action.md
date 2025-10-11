@@ -14,10 +14,10 @@
 Overfishing is one of the main causes of shark population decline. By choosing sustainably caught seafood (look for labels like **MSC** or **ASC**) and avoiding shark products, you help reduce demand for destructive fishing practices.
 </div>
 
-> **Tip:** Avoid purchasing products made from shark cartilage, liver oil (squalene), or fins.  
+> **Tip :** Avoid purchasing products made from shark cartilage, liver oil (squalene), or fins.  
 > These are often found in cosmetics, health supplements, or soups.
 
-**Sources:**  
+**Sources :**  
 - [WWF – Sustainable seafood guide](https://www.worldwildlife.org/industries/sustainable-seafood) 
 - [Shark Trust – Consumer choices](https://www.sharktrust.org/shark-threats)
 
@@ -30,12 +30,12 @@ Overfishing is one of the main causes of shark population decline. By choosing s
 Every year, millions of tons of plastic end up in the ocean, killing countless marine animals, including sharks. Reducing your plastic use is one of the easiest and most impactful ways to help.  
 </div>
 
-**Actions you can take:**
+**Actions you can take :**
 - Use reusable bags, bottles, and utensils.  
 - Choose products with minimal or recyclable packaging.  
 - Participate in local clean-up initiatives.
 
-**Sources:**  
+**Sources :**  
 - [Ocean Conservancy – Trash Free Seas](https://oceanconservancy.org/trash-free-seas/)  
 - [UNEP – Marine plastic pollution facts](https://www.unep.org/interactives/beat-plastic-pollution/)
 
@@ -51,7 +51,7 @@ You can post educational content, talk about conservation efforts, or simply cor
 
 > “Education is the most powerful weapon which you can use to change the world.” — *Nelson Mandela*
 
-**Sources:**  
+**Sources :**  
 - [Shark Allies – Education resources](https://www.sharkallies.com/)  
 - [Shark Savers – Community engagement](https://www.shark-savers.com/)
 
@@ -64,7 +64,7 @@ You can post educational content, talk about conservation efforts, or simply cor
 Citizens play a powerful role in shaping environmental policies. Support bans on shark fin trade, plastic reduction laws, and marine protected areas by signing petitions or contacting your representatives.
 </div>
 
-**Sources:**  
+**Sources :**  
 - [Sea Shepherd – Campaigns](https://www.seashepherd.org/)  
 - [Pew Charitable Trusts – Shark conservation](https://www.pewtrusts.org/en/projects/global-shark-conservation)
 
@@ -77,7 +77,7 @@ Citizens play a powerful role in shaping environmental policies. Support bans on
 If you can, support NGOs financially or through volunteering. Even small contributions help fund vital research and on-the-ground conservation work.
 </div>
 
-**Examples:**  
+**Examples :**  
 - [Sea Shepherd](https://www.seashepherdglobal.org/get-involved/)  
 - [Shark Trust](https://www.sharktrust.org/donate)  
 - [Oceana](https://oceana.org/take-action/)
@@ -89,7 +89,7 @@ If you can, support NGOs financially or through volunteering. Even small contrib
  𓆝𓆟𓆝𓆟𓆝𓆝𓆟𓆝𓆟𓆝
 </div>
 
-### Remember:
+### Remembern:
 
 > “The greatest threat to our planet is the belief that someone else will save it.” — *Robert Swan*
 
