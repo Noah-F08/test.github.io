@@ -9,8 +9,12 @@
 
 <p align="justify">
   
-Overfishing is one of the main causes of shark population decline. By choosing sustainably caught seafood (look for labels like **MSC** or **Friends of the Sea**) and avoiding shark products, you help reduce demand for destructive fishing practices.
+Overfishing is one of the main causes of shark population decline. By choosing sustainably caught seafood (look for labels like **MSC** or **ASC**) and avoiding shark products, you help reduce demand for destructive fishing practices.
 </p>
 
 > **Tip:** Avoid purchasing products made from shark cartilage, liver oil (squalene), or fins.  
 > These are often found in cosmetics, health supplements, or soups.
+
+**Sources:**  
+- [WWF – Sustainable seafood guide](https://www.worldwildlife.org/industries/sustainable-seafood) 
+- [Shark Trust – Consumer choices](https://www.sharktrust.org/shark-threats)
