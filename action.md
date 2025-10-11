@@ -95,7 +95,9 @@ If you can, support NGOs financially or through volunteering. Even small contrib
 
 Together, small actions can create big waves.
 
----
-<br>
+<div align=center>
+ 
+ 𓆝𓆟𓆝𓆟𓆝𓆝𓆟𓆝𓆟𓆝
+</div>
 
 [← Back to main page](index.md)
