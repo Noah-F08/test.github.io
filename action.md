@@ -89,7 +89,7 @@ If you can, support NGOs financially or through volunteering. Even small contrib
  𓆝𓆟𓆝𓆟𓆝𓆝𓆟𓆝𓆟𓆝
 </div>
 
-### Remembern:
+### Remember :
 
 > “The greatest threat to our planet is the belief that someone else will save it.” — *Robert Swan*
 
