@@ -5,7 +5,7 @@
 
 ---
 
-## 1. Be a Responsible Consumer
+### 1. Be a Responsible Consumer
 
 <p align="justify">
 Overfishing is one of the main causes of shark population decline. By choosing sustainably caught seafood (look for labels like **MSC** or **Friends of the Sea**) and avoiding shark products, you help reduce demand for destructive fishing practices.
