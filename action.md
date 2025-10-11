@@ -10,6 +10,7 @@
 ### 1. Be a Responsible Consumer
 
 <div align="justify"> 
+ 
 Overfishing is one of the main causes of shark population decline. By choosing sustainably caught seafood (look for labels like **MSC** or **ASC**) and avoiding shark products, you help reduce demand for destructive fishing practices.
 </div>
 
@@ -24,9 +25,9 @@ Overfishing is one of the main causes of shark population decline. By choosing s
 
 ### 2. Reduce Plastic Pollution
 
-<p align="justify">
+<div align="justify">
 Every year, millions of tons of plastic end up in the ocean, killing countless marine animals, including sharks. Reducing your plastic use is one of the easiest and most impactful ways to help.
-</p>
+</div>
 
 **Actions you can take:**
 - Use reusable bags, bottles, and utensils.  
