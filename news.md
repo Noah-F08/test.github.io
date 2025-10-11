@@ -21,3 +21,13 @@ A pioneering project in Indonesia is bringing sharks born in captivity back to r
 [Know more →](https://reasonstobecheerful.world/worlds-first-rewilded-sharks-thrive-reshark/)
 
 </div>
+<div style="border: 1px solid #b3e0f2; border-radius: 12px; padding: 18px; background-color: #f7fcfd; box-shadow: 2px 2px 8px rgba(0,0,0,0.1); margin-bottom: 25px;">
+
+**Lessons from Ascension’s Shark Troubles Could Help Conservation**
+
+**Oct 9, 2025**  
+On Ascension Island, human-shark interactions and local perceptions are influencing conservation effectiveness, beyond just shark attacks themselves.
+
+[Know more →](https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/lessons-from-ascensions-shark-troubles-could-help-boost-conservation/)
+
+</div>
