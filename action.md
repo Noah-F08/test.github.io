@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 # Take action !
 ## *Small changes, big impact.*
 
