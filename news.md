@@ -11,7 +11,7 @@ Shark populations, human impacts, and marine policies are always evolving. This 
 
 ## Featured Stories
 
-<div align="left">
+<div align=left>
   
 ### The World’s First Rewilded Sharks Are Thriving 
 </div>
