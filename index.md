@@ -115,5 +115,5 @@ There are **two ways** you can help sharks :
 >
 > **Daily Actions**  
 > *Simple habits and actions you can do every day to protect sharks.*  
-> [**See more →**](support.md)
+> [**See more →**](action.md)
 
