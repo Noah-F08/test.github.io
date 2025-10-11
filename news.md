@@ -42,3 +42,14 @@ A consumer forensics study found that 93% of shark meat in U.S. stores is labele
 [Know more →](https://www.unc.edu/posts/2025/10/09/critically-endangered-shark-meat-sold-in-us-stores/)
 
 </div>
+<div style="border: 1px solid #b3e0f2; border-radius: 12px; padding: 18px; background-color: #f7fcfd; box-shadow: 2px 2px 8px rgba(0,0,0,0.1); margin-bottom: 25px;">
+
+**Super-Habitats Could Hold Key to Reef Shark Protection**
+
+**Sep 8, 2025**  
+Researchers in Fakarava have identified habitat zones that may be crucial to reef shark survival—and targets for better protection.
+
+[Know more →](
+
+</div>
+
