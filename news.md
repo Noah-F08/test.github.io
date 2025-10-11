@@ -11,11 +11,12 @@ Shark populations, human impacts, and marine policies are always evolving. This 
 
 ## Featured Stories
 
-<div align=left>
+<div style="border: 2px solid #87ceeb; border-radius: 12px; padding: 16px; background-color: #eaf7f9; margin-bottom: 20px;">
   
 ### The World’s First Rewilded Sharks Are Thriving 
-</div>
 
 **Oct 10, 2025**  
 A pioneering project in Indonesia is bringing sharks born in captivity back to reef habitats, aiming to rebuild wild populations.  
 [Know more →](https://reasonstobecheerful.world/worlds-first-rewilded-sharks-thrive-reshark/)
+
+</div>
