@@ -10,7 +10,7 @@
 ----
 <div align="center">
   
-𓆝𓆝𓆟𓆝𓆟        ***•   [Take action!](action.md)    •    [organizations](organizations.md)    •    [Latest news](news.md)   •***         𓆝𓆝𓆟𓆝𓆟
+𓆝𓆝𓆟𓆝𓆟        ***•   [Take action !](action.md)    •    [organizations](organizations.md)    •    [Latest news](news.md)   •***         𓆝𓆝𓆟𓆝𓆟
     
 </div>
 
