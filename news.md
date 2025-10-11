@@ -31,3 +31,11 @@ On Ascension Island, human-shark interactions and local perceptions are influenc
 [Know more →](https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/lessons-from-ascensions-shark-troubles-could-help-boost-conservation/)
 
 </div>
+<div style="border: 1px solid #b3e0f2; border-radius: 12px; padding: 18px; background-color: #f7fcfd; box-shadow: 2px 2px 8px rgba(0,0,0,0.1); margin-bottom: 25px;">
+
+**Critically Endangered Shark Meat Sold in U.S. Stores**
+
+**Oct 9, 2025**  
+A consumer forensics study found that 93% of shark meat in U.S. stores is labeled simply as “shark,” with critically endangered species among the samples.
+
+[Know more →](
