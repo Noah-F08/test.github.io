@@ -1,2 +1,2 @@
-## Latest News
-### *Stay updated on shark and marine conservation*
+# Latest News
+## *Stay updated on shark and marine conservation*
