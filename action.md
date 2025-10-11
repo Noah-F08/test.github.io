@@ -78,4 +78,11 @@ If you can, support NGOs financially or through volunteering. Even small contrib
 - [Shark Trust](https://www.sharktrust.org/donate)  
 - [Oceana](https://oceana.org/take-action/)
 
+---
 
+<div class="divider">𓆝𓆟𓆝𓆟𓆝𓆝𓆟𓆝𓆟𓆝</div>
+
+### 🦈 Remember:
+> “The greatest threat to our planet is the belief that someone else will save it.” — *Robert Swan*
+
+Together, small actions can create big waves.
