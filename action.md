@@ -91,7 +91,7 @@ If you can, support NGOs financially or through volunteering. Even small contrib
 - [Shark Trust](https://www.sharktrust.org/donate)  
 - [Oceana](https://oceana.org/take-action/)
 
-
+<br>
 <div align=center>
  
  𓆝𓆟𓆝𓆟𓆝𓆝𓆟𓆝𓆟𓆝
