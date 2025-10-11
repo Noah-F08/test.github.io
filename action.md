@@ -19,6 +19,7 @@ Overfishing is one of the main causes of shark population decline. By choosing s
 - [WWF – Sustainable seafood guide](https://www.worldwildlife.org/industries/sustainable-seafood) 
 - [Shark Trust – Consumer choices](https://www.sharktrust.org/shark-threats)
 
+---
 
 ### 2. Reduce Plastic Pollution
 
