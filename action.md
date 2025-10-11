@@ -78,6 +78,7 @@ Citizens play a powerful role in shaping environmental policies. Support bans on
 <div align="justify">
 If you can, support NGOs financially or through volunteering. Even small contributions help fund vital research and on-the-ground conservation work.
 </div>
+<br>
 
 **Examples:**  
 - [Sea Shepherd](https://www.seashepherdglobal.org/get-involved/)  
