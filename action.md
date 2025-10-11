@@ -7,6 +7,14 @@
 
 ---
 
+<div align="justify">
+ 
+Protecting sharks and the ocean doesn’t require a degree in marine biology. Every choice we make — what we eat, what we buy, and even what we share — can contribute to the protection of marine ecosystems. Here are some simple, accessible actions anyone can take.
+</div>
+
+---
+
+
 ### 1. Be a Responsible Consumer
 
 <div align="justify"> 
