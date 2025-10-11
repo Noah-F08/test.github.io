@@ -21,7 +21,7 @@ Overfishing is one of the main causes of shark population decline. By choosing s
 - [WWF – Sustainable seafood guide](https://www.worldwildlife.org/industries/sustainable-seafood) 
 - [Shark Trust – Consumer choices](https://www.sharktrust.org/shark-threats)
 
- &nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### 2. Reduce Plastic Pollution
 
@@ -37,5 +37,45 @@ Every year, millions of tons of plastic end up in the ocean, killing countless m
 **Sources:**  
 - [Ocean Conservancy – Trash Free Seas](https://oceanconservancy.org/trash-free-seas/)  
 - [UNEP – Marine plastic pollution facts](https://www.unep.org/interactives/beat-plastic-pollution/)
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+### 3. Spread Awareness
+
+<div align="justify">
+Misinformation is one of sharks’ biggest enemies. Sharing verified facts helps change public perception and encourages others to care.  
+You can post educational content, talk about conservation efforts, or simply correct misconceptions when you hear them.
+</div>
+
+> “Education is the most powerful weapon which you can use to change the world.” — *Nelson Mandela*
+
+**Sources:**  
+- [Shark Allies – Education resources](https://www.sharkallies.com/)  
+- [Shark Savers – Community engagement](https://www.shark-savers.com/)
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+### 4. Support Ocean-Friendly Policies
+
+<div align="justify">
+Citizens play a powerful role in shaping environmental policies. Support bans on shark fin trade, plastic reduction laws, and marine protected areas by signing petitions or contacting your representatives.
+</div>
+
+**Sources:**  
+- [Sea Shepherd – Campaigns](https://www.seashepherd.org/)  
+- [Pew Charitable Trusts – Shark conservation](https://www.pewtrusts.org/en/projects/global-shark-conservation)
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+### 5. Donate or Volunteer
+
+<div align="justify">
+If you can, support NGOs financially or through volunteering. Even small contributions help fund vital research and on-the-ground conservation work.
+</div>
+
+**Examples:**  
+- [Sea Shepherd](https://www.seashepherdglobal.org/get-involved/)  
+- [Shark Trust](https://www.sharktrust.org/donate)  
+- [Oceana](https://oceana.org/take-action/)
 
 
