@@ -26,7 +26,7 @@ Overfishing is one of the main causes of shark population decline. By choosing s
 ### 2. Reduce Plastic Pollution
 
 <div align="justify">
-Every year, millions of tons of plastic end up in the ocean, killing countless marine animals, including sharks. Reducing your plastic use is one of the easiest and most impactful ways to help.
+Every year, millions of tons of plastic end up in the ocean, killing countless marine animals, including sharks. Reducing your plastic use is one of the easiest and most impactful ways to help.  
 </div>  
 
 **Actions you can take:**
