@@ -38,4 +38,6 @@ On Ascension Island, human-shark interactions and local perceptions are influenc
 **Oct 9, 2025**  
 A consumer forensics study found that 93% of shark meat in U.S. stores is labeled simply as “shark,” with critically endangered species among the samples.
 
-[Know more →](
+[Know more →](https://www.unc.edu/posts/2025/10/09/critically-endangered-shark-meat-sold-in-us-stores/)
+
+</div>
