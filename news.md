@@ -55,6 +55,11 @@ Researchers in Fakarava have identified habitat zones that may be crucial to ree
 
 </div>
 
+<div align=center>
+ 
+ 𓆝𓆟𓆝𓆟𓆝𓆝𓆟𓆝𓆟𓆝
+</div>
+
 ## More News & Resources
 
 - [Shark News (IUCN Shark Specialist Group)](https://www.iucnssg.org/shark-news.html) — biannual updates on shark, ray & chimaera conservation
