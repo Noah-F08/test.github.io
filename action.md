@@ -96,5 +96,6 @@ If you can, support NGOs financially or through volunteering. Even small contrib
 Together, small actions can create big waves.
 
 ---
+<br>
 
 [← Back to main page](index.md)
