@@ -90,6 +90,7 @@ If you can, support NGOs financially or through volunteering. Even small contrib
 <div align=center>𓆝𓆟𓆝𓆟𓆝𓆝𓆟𓆝𓆟𓆝</div>
 
 ### Remember:
+
 > “The greatest threat to our planet is the belief that someone else will save it.” — *Robert Swan*
 
 Together, small actions can create big waves.
