@@ -51,7 +51,7 @@ A consumer forensics study found that 93% of shark meat in U.S. stores is labele
 **Sep 8, 2025**  
 Researchers in Fakarava have identified habitat zones that may be crucial to reef shark survival—and targets for better protection.
 
-[Know more →](
+[Know more →](https://news.fiu.edu/2025/super-habitats-could-hold-key-to-shark-conservation)
 
 </div>
 
