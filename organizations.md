@@ -46,4 +46,4 @@ You don’t have to be a marine biologist to make a difference. Start by support
 </div>
 <br>
 
-[← Back to main page](index.md)
+[← Back to main page](index.md) • [Take Action ! →](action.md)
