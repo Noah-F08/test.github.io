@@ -48,7 +48,11 @@ Misinformation is one of sharks’ biggest enemies. Sharing verified facts helps
 You can post educational content, talk about conservation efforts, or simply correct misconceptions when you hear them.
 </div>
 
+<br>
+
 > “Education is the most powerful weapon which you can use to change the world.” — *Nelson Mandela*
+
+<br>
 
 **Sources:**  
 - [Shark Allies – Education resources](https://www.sharkallies.com/)  
@@ -61,6 +65,7 @@ You can post educational content, talk about conservation efforts, or simply cor
 <div align="justify">
 Citizens play a powerful role in shaping environmental policies. Support bans on shark fin trade, plastic reduction laws, and marine protected areas by signing petitions or contacting your representatives.
 </div>
+<br>
 
 **Sources:**  
 - [Sea Shepherd – Campaigns](https://www.seashepherd.org/)  
