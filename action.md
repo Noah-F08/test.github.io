@@ -85,7 +85,9 @@ If you can, support NGOs financially or through volunteering. Even small contrib
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<div align=center>𓆝𓆟𓆝𓆟𓆝𓆝𓆟𓆝𓆟𓆝</div>
+<div align=center>
+ 𓆝𓆟𓆝𓆟𓆝𓆝𓆟𓆝𓆟𓆝
+</div>
 
 ### Remember:
 
