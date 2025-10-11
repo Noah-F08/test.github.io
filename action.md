@@ -26,9 +26,9 @@ Overfishing is one of the main causes of shark population decline. By choosing s
 ### 2. Reduce Plastic Pollution
 
 <div align="justify">
+ 
 Every year, millions of tons of plastic end up in the ocean, killing countless marine animals, including sharks. Reducing your plastic use is one of the easiest and most impactful ways to help.  
 </div>
-<br>
 
 **Actions you can take:**
 - Use reusable bags, bottles, and utensils.  
@@ -51,8 +51,6 @@ You can post educational content, talk about conservation efforts, or simply cor
 
 > “Education is the most powerful weapon which you can use to change the world.” — *Nelson Mandela*
 
-<br>
-
 **Sources:**  
 - [Shark Allies – Education resources](https://www.sharkallies.com/)  
 - [Shark Savers – Community engagement](https://www.shark-savers.com/)
@@ -62,9 +60,9 @@ You can post educational content, talk about conservation efforts, or simply cor
 ### 4. Support Ocean-Friendly Policies
 
 <div align="justify">
+ 
 Citizens play a powerful role in shaping environmental policies. Support bans on shark fin trade, plastic reduction laws, and marine protected areas by signing petitions or contacting your representatives.
 </div>
-<br>
 
 **Sources:**  
 - [Sea Shepherd – Campaigns](https://www.seashepherd.org/)  
@@ -75,9 +73,9 @@ Citizens play a powerful role in shaping environmental policies. Support bans on
 ### 5. Donate or Volunteer
 
 <div align="justify">
+ 
 If you can, support NGOs financially or through volunteering. Even small contributions help fund vital research and on-the-ground conservation work.
 </div>
-<br>
 
 **Examples:**  
 - [Sea Shepherd](https://www.seashepherdglobal.org/get-involved/)  
@@ -87,6 +85,7 @@ If you can, support NGOs financially or through volunteering. Even small contrib
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <div align=center>
+ 
  𓆝𓆟𓆝𓆟𓆝𓆝𓆟𓆝𓆟𓆝
 </div>
 
