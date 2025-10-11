@@ -45,7 +45,8 @@ Every year, millions of tons of plastic end up in the ocean, killing countless m
 
 <div align="justify">
 Misinformation is one of sharks’ biggest enemies. Sharing verified facts helps change public perception and encourages others to care.  
-You can post educational content, talk about conservation efforts, or simply correct misconceptions when you hear them.  </div> <br>
+You can post educational content, talk about conservation efforts, or simply correct misconceptions when you hear them.  
+</div>
 
 > “Education is the most powerful weapon which you can use to change the world.” — *Nelson Mandela*
 
