@@ -46,7 +46,4 @@ You don’t have to be a marine biologist to make a difference. Start by support
 </div>
 <br>
 
-<div style="display: flex; justify-content: space-between;">
-  <a href="index.md">← Back to main page</a>
-  <a href="actions.md">Take Action →</a>
-</div>
+[← Back to main page](index.md)
